@@ -7,6 +7,7 @@ import 'package:pr_galaxy_plants/views/screens/Favorites_Page.dart';
 import 'package:pr_galaxy_plants/views/screens/Home_Page.dart';
 import 'package:pr_galaxy_plants/views/screens/Settings_Page.dart';
 import 'package:pr_galaxy_plants/views/screens/Splash_Screen.dart';
+import 'package:pr_galaxy_plants/views/screens/intro_page.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:sizer/sizer.dart';
@@ -44,7 +45,8 @@ void main() async {
               : ThemeMode.light,
           debugShowCheckedModeBanner: false,
           routes: {
-            '/': (context) => const SplashScreen(),
+            '/': (context) => const intro_page(),
+            'splashScreen': (context) => const SplashScreen(),
             'home_page': (context) => const HomePage(),
             'settings_page': (context) => const SettingsPage(),
             'details_page': (context) => const DetailsPage(),

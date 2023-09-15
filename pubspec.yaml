@@ -38,6 +38,7 @@ dependencies:
   provider:
   shared_preferences:
   sizer:
+  introduction_screen:
 
 dev_dependencies:
   flutter_test:
