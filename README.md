@@ -9,9 +9,9 @@ This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 
-<img src ="https://github.com/NeelManiya25/PR_Galaxy_Planets_Animator/assets/131368162/923ce44c-e447-4828-874b-184acaa869ce" width ="250">
-<img src ="https://github.com/NeelManiya25/PR_Galaxy_Planets_Animator/assets/131368162/a825fd0d-565b-4150-8c4a-921ce8296338" width= "250">
-<img src ="https://github.com/NeelManiya25/PR_Galaxy_Planets_Animator/assets/131368162/40a02c6b-fd11-48a1-ac0c-028c4dae1dd9" width = "250">
+<img src ="https://github.com/NeelManiya25/PR_Galaxy_Planets_Animator/assets/131368162/923ce44c-e447-4828-874b-184acaa869ce" width ="250px">
+<img src ="https://github.com/NeelManiya25/PR_Galaxy_Planets_Animator/assets/131368162/a825fd0d-565b-4150-8c4a-921ce8296338" width= "250px">
+<img src ="https://github.com/NeelManiya25/PR_Galaxy_Planets_Animator/assets/131368162/40a02c6b-fd11-48a1-ac0c-028c4dae1dd9" width = "250px">
 <img src ="https://github.com/NeelManiya25/PR_Galaxy_Planets_Animator/assets/131368162/1136d422-25bf-4807-a7fb-1a318f6eb2a7"width ="250px">
 <img src ="https://github.com/NeelManiya25/PR_Galaxy_Planets_Animator/assets/131368162/fde15f0f-d6c5-477b-a141-10be93958037"width ="250px">
 <img src ="https://github.com/NeelManiya25/PR_Galaxy_Planets_Animator/assets/131368162/c8832233-3d38-4df7-bdde-fe23811cf75c"width ="250px">
